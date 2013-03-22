@@ -1,0 +1,26 @@
+{% extends '_layout.html' %}
+{%block content%}
+
+<div class='dashboard'>
+
+	
+	<form action="/zone/register/" method="post">
+		{% csrf_token %}
+		<h2>Registration</h2>
+		<p>Please register by Friday March, 8.  We will accept last minute registrations,
+			but having a count by the 8th will help with organizing meals.  Registration fees will be collected at check-in during the meeting (check or cash).</p>
+<!-- 		<p class='left'>
+			* indicates the field is required
+		</p>
+ -->
+		{{form.as_p}}
+		<input type='submit'>
+		<p>If you have any issues with registration, please 
+			email <a href="mailto:dpawlows@emich.edu">Dave 
+			Pawlowski</a>.</p>
+    </form>
+
+
+</div>
+
+{%endblock%}

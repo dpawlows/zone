@@ -1,0 +1,31 @@
+{% extends '_layout.html' %}
+{%block content%}
+
+<div class='dashboard'>
+
+	
+	<form action="/user/register" method="post">
+		{% csrf_token %}
+		<h2>Registration</h2>
+		<!-- First Name: <input id="box" type="text" name="first_name">
+		Last Name: <input id="box" type="text" name="last_name">
+		University: <input id="box" type="text" name="university">
+		
+		<input type="radio" name="type" value="undergraduate">
+		Undergraduate Student<br />
+		<input type="radio" name="type" value="graduate">
+		Graduate Student<br />
+		<input type="radio" name="type" value="faculty">
+		Faculty<br /><br />
+
+		Presenting? <input type="checkbox" name="presenting" value="presenting"><br />
+		Abstract:<textarea id="abstract" name="abstract"></textarea>
+
+		<input class="button" type="submit" value="Submit Form"> -->
+
+    </form>
+
+
+</div>
+
+{%endblock%}

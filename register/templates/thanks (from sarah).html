@@ -1,0 +1,48 @@
+{% extends '_layout.html' %}
+{%block content%}
+
+<div class='dashboard'>
+<p>Thanks for registering for the 2013 SPS Zone 7 Meeting.  A full 
+	agenda will be posted closer to the date of the meeting.  If you have 
+any questions or issues, please email <a href="mailto:dpawlows@emich.edu">Dave 
+			Pawlowski</a>.</p><br />
+See you in March {{newperson.first_name}}!</p>
+
+<h3>Your registration information:</h3>
+<div class="thankstab">
+<table >
+	<tr>
+		<td>Name: </td>
+		<td>{{newperson.first_name}} {{newperson.last_name}}</td>
+	<tr>
+		<td>Status: </td>
+		<td>{{newperson.rank}}</td>
+	</tr>
+	<tr>
+		<td>University: </td>
+		<td>{{newperson.university}}</td>
+	</tr>
+	<tr>
+	  <td>email: </td>
+	  <td>{{newperson.email}}</td>
+	 </tr>
+	<tr>
+	  <td>Presenting: {{newperson.presentation}}</td>
+	  <td>Housing: {{newperson.housing}}</td>
+	</tr>	
+	<tr>
+		<td>Competition: {{newperson.competition}}</td>
+	</tr>
+<!--	<tr>
+		<td>Presentation Type: </td>
+		<td>{{newperson.presentation_type}}</td>
+	</tr>-->
+</table>
+</div>
+
+
+
+
+</div>
+
+{%endblock%}

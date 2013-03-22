@@ -1,0 +1,203 @@
+Stephen Stassen
+Using Photoacoustic spectroscopy for aerosol research. 
+Nico Wagner
+Title: Beating Conventional Light Microscopy: Two Super Resolution Imaging Techniques
+
+Subtitle: Stochastic Optical Reconstruction Microscopy (STORM) & Cryo-Electron Tomography (CryoET)
+
+
+Abstract: It has long been established that conventional light
+microscopy is limited in resolution to about 200 nm. Many biological
+structures, however, are much smaller than 200 nm and cannot be imaged
+by conventional microscopes.  STORM takes advantage of labeled
+fluorescent proteins that can be individually tracked and used to
+reconstruct images with a resolution in the tens of nanometers. CryoET
+uses cryo-freezing rather than the traditional method of preparing
+samples for electron microscopy, allowing samples to be imaged in
+their native states and with a resolution of up to 2 nm.
+
+
+
+Mallory Fuhst
+Magnetoresistance in Ag2Te and Ag2Se thin films
+
+Previous studies have found that Ag2Te and Ag2Se thin films possess a
+large positive magnetoresistance. Our preliminary research with these
+materials suggests that the surface state effects are significant even
+in bulk and poly crystal forms at room temperature. If this is the
+case, Ag2Te and Ag2Se would be practical materials for commercial
+applications, particularly thermoelectrics. Therefore, we are creating
+thin films on silicon dioxide crystals to minimize the bulk
+contributions. The thin films are being created in a vacuum chamber
+through evaporation deposition. After verifying that the films are
+Ag2Te and Ag2Se with an electron microscope, we will test their
+magnetoresistance.
+
+
+
+Celeste Carruth
+Title: A Monte Carlo Study of a Level II Trigger Cut for the K0TO 
+Experiment
+
+Abstract: The K0TO experiment is a high energy physics experiment at a
+particle accelerator in Japan that will study a rare kaon decay. In
+order to accommodate the high kaon flux, the data acquisition system
+must quickly discard a high percentage of background events while
+retaining all signal events. Monte Carlo simulations show that we can
+effectively separate background and signal events by checking the
+center of energy radius of incoming events.
+
+
+Nathan Tehrani and Tessa Maynard
+Pulsar Science: Arecibo 327 MHz Drift Scan Processing
+West Virginia University
+
+Maura McLaughlin – Advisor
+
+Pulsars are the extremely dense remnants of stellar cores that have
+survived supernovaexplosions.  As they rotate, they emit pulses of
+radiation. For the past nine years, WVUastronomers have conducted a
+drift scan using the 305-meter radio telescope at the Arecibo
+Observatory. This project is part of an effort to process the radio
+data that was collected, in order to find new pulsars and to test
+hypotheses about previously known pulsars. Software was developed and
+used to isolate pieces of radio data for individual pulsars and pulsar
+candidates.This isolated data were processed by folding the data at
+the pulsars' period, in order to reveal the flux densities, or
+luminosities, of the known pulsars at the survey frequency of 327
+MHz. It is hypothesized that the flux densities at 327 MHz will match
+those predicted by a model based on the known flux densities at 1400
+MHz. The results of this experiment allowed us to calibrate the survey
+sensitivity.
+
+
+
+Colin Gurganus
+Fast Imaging of Freezing Drops: Studies of Contact Nucleation
+
+Colin Gurganus1,2, Alexander B. Kostinski1,2, Raymond A. Shaw1,2
+1. Department of Physics, Michigan Technological University
+2. Department of Atmospheric Sciences, Michigan Technological University
+
+Understanding cloud processes represents a cornerstone of the NASA
+Earth Science Mission. Sophisticated remote sensing satellites in the
+A-Train constellation monitor cloud structure and microphysical
+properties on a global scale. Decades of these observations aid in the
+development of parameterizations for climate models to help understand
+variability in the atmosphere. Despite the complexities of these
+tools, a poor understanding of microphysical cloud processes limits
+the fidelity of climate and weather models at all scales. Our efforts
+are aimed at better understanding the phase transitions of supercooled
+cloud droplets, which can initiate precipitation processes and drive
+cloud turbulent mixing through the release of latent heat. The
+nucleation of these droplets in the lower troposphere is dominated by
+the heterogeneous mode due to the abundance of natural and
+anthropogenic aerosol catalyst particles. Disentangling complex
+droplet-aerosol interactions in the laboratory is important for
+correct parameterization in cloud microphysical models.
+
+Heterogeneous nucleation is further complicated by the various
+mechanisms in which individual aerosol particles may induce
+crystallization. The relevant roles of the two primary pathways,
+aerosol-droplet contact (contact mode) and nucleation by an immersed
+aerosol (immersion mode), remains an open question. An interpretation
+of the difference between the contact and immersion modes is based on
+the energy barrier for nucleation at a three-phase and two-phase
+interface, respectively. Previous laboratory experiments have noted a
+preference for nucleation in the contact mode, with freezing
+temperatures 2-5K warmer than in the immersion mode. Contact
+nucleation remains enigmatic and our approach utilizes simple
+experiments to disentangle several competing hypothesizes. We employ
+high speed imaging of supercooled water drops, to determine nucleation
+site spatial statistics on the droplet-substrate plane. To that end,
+the focus of our initial study was droplets in a spherical cap
+geometry resting on homogeneous and atomically smooth silicon
+substrates. Radial distributions of the nucleation sites in these
+slowly cooled systems revealed no preference for nucleation at the
+three-phase contact line, a surprising null result [1].
+
+One hypothesis for this conflicting observation is the presence of a
+thermal gradient within droplets experiencing differential cooling,
+which can be induced by rapid cooling in cloud updrafts. Our initial
+experiment was designed to limit this effect, but here we report on
+the modification of our experiment to examine these parameters in more
+detail. Initial results with this apparatus agree with our previous
+observations suggesting that the lower energy barrier to nucleation in
+some contact studies may result from a nanometer scale “point-like”
+interaction. It remains unclear to what extent morphology, texture and
+size influence the nucleation rate in other non-idealized systems.
+
+1. C. Gurganus, A. B. Konstiski and R. A. Shaw (2011). "Fast Imaging
+of Freezing Drops: No Preference for Nucleation at the Contact Line."
+The Journal of Physical Chemistry Letters 2(12): 1449-1454.
+
+
+
+Nathan Tripp
+Title: "An Analysis Of The Effects Of Massive Rotating Bodies On Orbits In The Weak Field"
+
+Abstract: "Newtonian theories of gravity fail to describe certain
+minute but detectable phenomena. The existence of such phenomena
+spurred the development of improved theories of gravitation, the most
+popular of which is general relativity. This project involved
+mathematical examination of various implications of general
+relativity, including the perihelion precession of orbits, de Sitter
+precession, and Lense-Thirring precession. Expressions for the first
+two quantities were derived using the Schwarzschild metric, while the
+Lense-Thirring precession was derived using a low angular momentum
+limit of the Kerr metric.”
+
+
+Justin Hodges
+Characterization of an Ion Gun for Use on Extraterrestrial Projects
+
+The EMU Plasma Lab ion gun, built by graduate students, is a tool that
+produces a beam of positively charged particles. Once the gun is
+characterized, it can be used to model solar wind and how high-speed
+solar wind particles sputter solid materials from the surface of
+various rocks, which is a process that is interesting to NASA in the
+study of such interactions on Mercury. Characterization of the beam
+includes measurement of the beam energy, current, diameter, and
+intensity profile. The construction and design of a Faraday probe,
+which will be used to analyze the ion beam, as well as the operation
+of, and applications for, the ion gun will also be explored.
+
+
+Caliph  Lebrun
+High Altitude Balloon Project
+
+A High Altitude Balloon (HAB)project requires designing, building,
+testing, and launching a high altitude balloon.  The HAB provides a
+platform to measure the temperature, pressure, and humidity of the
+atmosphere during the flight of the balloon.  The project will include
+the measurement of acceleration and position in order to determine the
+location of different regions of the atmosphere, including the
+location of the tropopause.  Video and picture taking capabilities
+will be included on the payload in order to record the voyage.  This
+project is expected to yield data relevant to issues concerning
+weather, atmospheric conditions, and to serve as an introductory
+exploration of near space.
+
+
+
+Chad Brisbois
+Proof of Concept for a Simple Smartphone Sky Monitor
+
+We present a novel approach of obtaining a cloud and bright sky
+monitor by using a standard smartphone with a downloadable app. The
+addition of an inexpensive fisheye lens can extend the angular range
+to the entire sky visible above the device. A preliminary proof of
+concept image shows an optical limit of about visual magnitude 5 for a
+70-second exposure. Support science objectives include cloud
+monitoring in a manner similar to the more expensive cloud monitors in
+use at most major astronomical observatories, making expensive
+observing time at these observatories more efficient. Primary science
+objectives include bright meteor tracking, bright comet tracking, and
+monitoring the variability of bright stars. Citizen science objectives
+include crowd sourcing of many networked sky monitoring smartphones
+typically in broader support of many of the primary science goals. The
+deployment of a citizen smartphone array in an active science mode
+could leverage the sky monitoring data infrastructure to track other
+non-visual science opportunities, including monitoring the Earth's
+magnetic field for the effects of solar flares and exhaustive surface
+coverage for strong seismic events.

@@ -1,0 +1,24 @@
+{% extends '_layout.html' %}
+{%block content%}
+
+<div class='dashboard'>
+
+	
+	<form action="/zone/register/" method="post">
+		{% csrf_token %}
+		<h2>Registration</h2>
+<!-- 		<p class='left'>
+			* indicates the field is required
+		</p>
+ -->
+		{{form.as_p}}
+		<input type='submit'>
+		<p>If you have any issues with registration, please 
+			email <a href="mailto:dpawlows@emich.edu">Dave 
+			Pawlowski</a>.</p>
+    </form>
+
+
+</div>
+
+{%endblock%}

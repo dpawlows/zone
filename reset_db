@@ -1,0 +1,8 @@
+mysql -uroot zone -p < drop.sql
+
+       
+
+
+
+
+
